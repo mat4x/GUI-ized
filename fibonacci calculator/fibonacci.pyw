@@ -77,7 +77,7 @@ number is the sum of the two preceding ones, starting from 0 and 1, for n≥1.'
 		Button(win, text="Calculate", font=(None,15), command=self.get_ans).pack(fill=X,pady=10)
 		self.lbl_ans = Label(self.win, font=(None,15), bg="#ccc", wraplength=280)
 		self.lbl_ans.pack(fill=X, pady=10)
-		Button(win,text="Copy Value", font=(None,10), command=lambda: copy(self.ans["text"])).pack(anchor=E, padx=20)
+		Button(win,text="Copy Value", font=(None,10), command=lambda: copy(self.lbl_ans["text"])).pack(anchor=E, padx=20)
 		Label(win, text=info, font=(None,10), wraplength=280, justify=LEFT).pack(fill=X, pady=10)
 
 		# accessibilty/shortcuts
