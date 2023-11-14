@@ -1,3 +1,4 @@
+
 # GUI-ized Programs
 > _Running your program code and observing the output on a black and white console is boring._
 
@@ -19,3 +20,9 @@ This repository is the collection of the Python programs converted into GUI appl
 ## [Maze Solver](./maze%20solver/)
 
 [<img height=600 title="Maze Solver" alt="maze solver" src="https://drive.google.com/uc?id=1eGaTzB-trCN4cZBvkcUSGn802j5J1lYp" />](./maze%20solver/)
+
+
+## [5 Star Rating Widget](./star%20rating)
+
+[<img width=570 title="5 Star Rating" alt="star rating" src="https://drive.google.com/uc?id=1-POm5TfY962vpFifHJkl4tQT9Ipc7PSC" />](./star%20rating)
+
